@@ -3,7 +3,7 @@ Basic Assessment
 
 here's intial steps I made start on it Creating my repo using Github repository 
 
-1. basically I initial to create and rename on using 'DevOps' and including add REAMDE.md 
+1. basically I initial to create and rename on using 'DevOps' and including add README.md 
 
 2. the next step on is opening my Git Bash on it, so I basically I save and clone my repo from github on it 'LOQ@RAYMUND-PC03 MINGW64 ~ (main)
 $ git clone https://github.com/RaymundGerardReyes/DevOps
